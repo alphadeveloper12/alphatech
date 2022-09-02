@@ -107,7 +107,7 @@
           <div class="row align-items-center">
               
             <div class="col-md-7 mx-auto text-center">
-              <h1 class="heading gsap-reveal-hero">Unfold</h1>
+              <h1 class="heading gsap-reveal-hero">Alpha D</h1>
               <h2 class="subheading gsap-reveal-hero">I’m ALPHA DEVELOPER A Product Designer Based In Pakistan</h2>
             </div>
 
